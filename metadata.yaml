@@ -1,0 +1,39 @@
+_repo: Suudelma-rakkaimmalle_69695
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Kupiainen, Alpo
+    birthdate: 1888
+    deathdate: 1937
+    gutenberg_agent_id: '41954'
+    url: http://www.gutenberg.org/2009/agents/41954
+    wikipedia: https://fi.wikipedia.org/wiki/Alpo_Kupiainen
+creator:
+  author:
+    agent_name: Ruck, Berta
+    aliases:
+    - Onions, Oliver, Mrs.
+    - Onions, Mrs. Oliver
+    - Ruck, Amy Roberta
+    birthdate: 1878
+    deathdate: 1978
+    gutenberg_agent_id: '38157'
+    url: http://www.gutenberg.org/2009/agents/38157
+    wikipedia: https://en.wikipedia.org/wiki/Berta_Ruck
+description: ''
+gutenberg_issued: '2023-01-03'
+identifiers:
+  gutenberg: '69695'
+language: fi
+pgterms:marc905: 20220219020656ruck
+pgterms:marc906: '1926'
+pgterms:marc907: FI
+production_note: Sirpa Helminen and Tapio Riikonen
+publication_note: 'Finland: Arvi A. Karisto Oy,1926,reprint 1991.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Suudelma rakkaimmalle
+url: http://www.gutenberg.org/ebooks/69695
